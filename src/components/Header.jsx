@@ -120,7 +120,7 @@ const Header = () => {
       <div className="w-full bg-[#FFB400] overflow-hidden">
         <div className="whitespace-nowrap">
           <p className="animate-marquee text-white font-medium text-[20px] py-2 inline-block">
-            Welcome to KATLICHERRA CENTRAL SCHOOL, excellence in education since
+            Welcome to Katlicherra Central School, excellence in education since
             2023. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             {notices.map((notice, index) => (
               <span key={index}> {notice.message} </span>
