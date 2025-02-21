@@ -31,7 +31,7 @@ const Banner = () => {
       </div>
       <div className="flex justify-center items-center mt-10">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-6">
-          <div className="w-full md:w-1/2 flex justify-center">
+          <div className="w-full md:w-1/2 flex justify-center p-2 md:p-0">
             <img src={g_11} alt="hero" className="w-full rounded-md" />
           </div>
 
