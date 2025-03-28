@@ -49,6 +49,14 @@ const Footer = () => {
                 Contact Us
               </a>
             </li>
+            <li>
+              <a
+                href="https://katlicherra-beta.vercel.app/"
+                className="hover:text-yellow-300"
+              >
+                Educloud
+              </a>
+            </li>
           </ul>
         </div>
 
