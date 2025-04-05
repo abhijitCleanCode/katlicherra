@@ -118,6 +118,12 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
+            <a
+              href="https://katlicherra-beta.vercel.app/"
+              className="text-white hover:text-yellow-300"
+            >
+              Educloud
+            </a>
           </nav>
         </div>
       </header>
