@@ -82,7 +82,7 @@ const Header = () => {
               href="https://katlicherra-beta.vercel.app/"
               className="text-white hover:text-yellow-300"
             >
-              Educloud
+              Login
             </a>
           </nav>
 
@@ -122,7 +122,7 @@ const Header = () => {
               href="https://katlicherra-beta.vercel.app/"
               className="text-white hover:text-yellow-300"
             >
-              Educloud
+              Login
             </a>
           </nav>
         </div>
