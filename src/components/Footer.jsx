@@ -51,7 +51,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://katlicherra-beta.vercel.app/"
+                href="https://katlicherra-school-service-beta.vercel.app"
                 className="hover:text-yellow-300"
               >
                 Login

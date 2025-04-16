@@ -79,7 +79,7 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://katlicherra-beta.vercel.app/"
+              href="https://katlicherra-school-service-beta.vercel.app"
               className="text-white hover:text-yellow-300"
             >
               Login
@@ -119,7 +119,7 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://katlicherra-beta.vercel.app/"
+              href="https://katlicherra-school-service-beta.vercel.app"
               className="text-white hover:text-yellow-300"
             >
               Login
