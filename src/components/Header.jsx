@@ -78,10 +78,7 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
-            <a
-              href="https://katlicherracentralschool-zllf.vercel.app"
-              className="text-white hover:text-yellow-300"
-            >
+            <a href="" className="text-white hover:text-yellow-300">
               Login
             </a>
           </nav>
@@ -118,10 +115,7 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
-            <a
-              href="https://katlicherracentralschool-zllf.vercel.app"
-              className="text-white hover:text-yellow-300"
-            >
+            <a href="" className="text-white hover:text-yellow-300">
               Login
             </a>
           </nav>
