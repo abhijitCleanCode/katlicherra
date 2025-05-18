@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import  school_logo from "./logo.png";
+import school_logo from "./logo.png";
 import { FiMenu, FiX } from "react-icons/fi";
-import { HashLink as Link } from 'react-router-hash-link';
+import { HashLink as Link } from "react-router-hash-link";
 
 const navLinks = [
   { name: "Home", path: "/" },
@@ -10,7 +10,6 @@ const navLinks = [
   { name: "Gallery", path: "/#gallery" },
   { name: "Contact us", path: "/#contact" }, // Updated path
 ];
-
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
