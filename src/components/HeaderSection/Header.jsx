@@ -27,7 +27,7 @@ const Header = () => {
             height={65}
           />
           <h1 className="text-white text-[30px] md:text-[50px] font-thin font-kanit">
-            AstraGroove
+            Katlicherra Central School
           </h1>
         </div>
 

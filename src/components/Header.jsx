@@ -79,10 +79,16 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://katlicherracentralschool-zllf.vercel.app"
+              href="https://katlicherra.webholicinfotech.com/site/login"
               className="text-white hover:text-yellow-300"
             >
-              Login
+              Admin
+            </a>
+            <a
+              href="https://katlicherra.webholicinfotech.com/site/userlogin"
+              className="text-white hover:text-yellow-300"
+            >
+              User
             </a>
           </nav>
 
@@ -119,10 +125,16 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://katlicherracentralschool-zllf.vercel.app"
+              href="https://katlicherra.webholicinfotech.com/site/login"
               className="text-white hover:text-yellow-300"
             >
-              Login
+              Admin
+            </a>
+            <a
+              href="https://katlicherra.webholicinfotech.com/site/userlogin"
+              className="text-white hover:text-yellow-300"
+            >
+              User
             </a>
           </nav>
         </div>
